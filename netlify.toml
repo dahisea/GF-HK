@@ -11,8 +11,14 @@
   force = true  
 
 [[redirects]]
-  from = "/zh-hans/*"
-  to = "https://xdrcgfn.dahi.edu.eu.org/zh-hans/:splat"
+  from = "/en/*"
+  to = "https://xdrcgfn.dahi.edu.eu.org/en/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/ja/*"
+  to = "https://xdrcgfn.dahi.edu.eu.org/ja/:splat"
   status = 200
   force = true
 
