@@ -11,6 +11,18 @@
   force = true  
 
 [[redirects]]
+  from = "/*/moderator_actions*"
+  to = "/zh-hans"
+  status = 307
+  force = true
+
+[[redirects]]
+  from = "/*/users/"
+  to = "/zh-hans"
+  status = 307
+  force = true
+
+[[redirects]]
   from = "/en/*"
   to = "https://xdrcgfn.dahi.edu.eu.org/en/:splat"
   status = 200
