@@ -131,7 +131,13 @@
   force = true
   
 [[redirects]]
-  from = "/*/scripts/by-site/"
+  from = "/en/scripts/by-site/"
+  to = "/zh-hans"
+  status = 307
+  force = true
+  
+[[redirects]]
+  from = "/ja/scripts/by-site/"
   to = "/zh-hans"
   status = 307
   force = true
