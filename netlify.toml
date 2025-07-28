@@ -126,13 +126,13 @@
   
 [[redirects]]
   from = "/en/scripts/by-site/*"
-  to = "/zh-hans"
+  to = "https://home.greasyfork.org.cn/s?q=&sort=&filter_locale=0&site=:splat"
   status = 307
   force = true
   
 [[redirects]]
   from = "/ja/scripts/by-site/*"
-  to = "/zh-hans"
+  to = "https://home.greasyfork.org.cn/s?q=&sort=&filter_locale=0&site=:splat"
   status = 307
   force = true
 
